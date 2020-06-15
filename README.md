@@ -6,5 +6,9 @@ The purpose of this system is to develop an efficent voice assistant capable of 
 
 The biggest issue so far is getting an offline speech recognition system online due to how much out of date documentation there is on raspberry pi speech rec.
 
+The character mount underneath is meant to acomodate a modified version of this 3D printed GLaDOS lamp:
+https://www.instructables.com/id/A-fully-3D-printable-GlaDOS-Robotic-ceiling-arm-la/
+
+
 # Initial Design:
 ![alt text](IMG_1985.JPG)
