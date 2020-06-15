@@ -12,3 +12,7 @@ https://www.instructables.com/id/A-fully-3D-printable-GlaDOS-Robotic-ceiling-arm
 
 # Initial Design:
 ![alt text](IMG_1985.JPG)
+
+# Current State:
+![alt text](IMG_2018.JPG)
+![alt text](IMG_2019.JPG)
